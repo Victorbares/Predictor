@@ -10,8 +10,13 @@ Trois méthodes sont implémentées:
 - Kalman
 
 
+Préparation de la compilation : 
+    mkdir build
+    cd build
+    cmake ..
 
-A faire:
-* gitignore pour le fichier text
-* Proportionnel en conséquence Mission triangle
-* tracer l'incertitude ?
+Pour compiler
+    make
+
+Pour lancer l'exécutable
+    ./Main 
