@@ -3,8 +3,8 @@
 #include <unistd.h>
 using namespace std;
 
-#define NOMBRE_ROBOT 10
-#define TEMPS_ITERATION 1350
+#define NOMBRE_ROBOT 200
+#define TEMPS_ITERATION 1200
 #define DT 0.5
 
 
